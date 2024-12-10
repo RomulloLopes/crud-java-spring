@@ -14,7 +14,7 @@ This repository contains a simple CRUD project built using Java Spring. The aim 
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone git@github.com:RomulloLopes/crud-java-spring.git
 ```
 
 2. Install dependencies with Maven
